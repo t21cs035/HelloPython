@@ -18,5 +18,7 @@ print(quick_sort(data))
       
 print(isinstance(2, int))
 
+
 from rock_paper_scissors import random_game
 print(random_game())
+
